@@ -10,3 +10,8 @@ Access on http://localhost:4002
 Build:
 $ npm run build
 ```
+
+## Docker Build Image
+```
+$ docker build .
+```

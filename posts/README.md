@@ -14,3 +14,8 @@ Content-Type : application/json
 Build :
 $ npm run build
 ```
+
+## Docker Build Image
+```
+$ docker build .
+```

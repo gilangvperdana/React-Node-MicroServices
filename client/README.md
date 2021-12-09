@@ -10,3 +10,8 @@ http://localhost:3000
 Build :
 $ npm run build
 ```
+
+## Docker Build Image
+```
+$ docker build .
+```
