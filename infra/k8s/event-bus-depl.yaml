@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: event-bus
-          image: gilangvperdana/research:eventbus1.0
+          image: gilangvperdana/research:eventbus1.1
 ---
 apiVersion: v1
 kind: Service
