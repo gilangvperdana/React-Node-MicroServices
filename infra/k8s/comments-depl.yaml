@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: comments
-          image: gilangvperdana/research:comments1.0
+          image: gilangvperdana/research:comments1.1
 ---
 apiVersion: v1
 kind: Service
