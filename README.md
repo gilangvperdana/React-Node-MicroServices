@@ -9,8 +9,12 @@ Frontend with ReactJS & Backend with NodeJS.
 ./posts for Posts Backend with NodeJS || Running on Port 4000
 ./event-bus for Event-Bus Services || Running on Port 4005
 ./query for Data Query Services || Running on Port 4002
+```
 
+## Important
+```
 If you don't want to use EventBus servies, you can replace index.js on posts and comments directory with index.js on ./backup directory.
+If you want to deploy on K8s, please replace all index.js with index.js on ./index-k8s directory first, then rebuild image.
 ```
 
 ## Documentation ?
