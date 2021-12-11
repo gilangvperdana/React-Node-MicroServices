@@ -9,6 +9,8 @@ Frontend with ReactJS & Backend with NodeJS.
 ./posts for Posts Backend with NodeJS || Running on Port 4000
 ./event-bus for Event-Bus Services || Running on Port 4005
 ./query for Data Query Services || Running on Port 4002
+
+For K8s Cluster, there are added feature called "Moderation" it's running on Port 4003
 ```
 
 ## Important
