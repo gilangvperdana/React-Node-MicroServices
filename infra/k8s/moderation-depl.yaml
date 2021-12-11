@@ -14,8 +14,7 @@ spec:
     spec:
       containers: 
         - name: blog-moderation
-          image: meylisday/blog-moderation
-          imagePullPolicy: Never
+          image: gilangvperdana/research:moderation1.1.1
 ---
 apiVersion: v1
 kind: Service
