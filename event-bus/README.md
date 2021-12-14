@@ -4,6 +4,7 @@
 This is Event-Bus Micro Services Powered by NodeJS.
 
 Run:
+$ npm install
 $ npm start
 Access on http://localhost:4005
 

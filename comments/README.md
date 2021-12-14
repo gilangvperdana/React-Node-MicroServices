@@ -2,6 +2,7 @@
 
 ```
 Start :
+$ npm install
 $ npm start
 
 Access on :
